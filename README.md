@@ -14,4 +14,4 @@ There are many ways to get involved in our work:
 - [Attend one of our meetings](https://docs.google.com/document/d/1CTQI0p3QF8JP8reV8z_ggcs8KE5YVPpQGvAQknw4qP0/edit#heading=h.x3xl5syz15zx). We alternate between two times to make it possible for you to join no matter which time zone you live or work in! 
 
 > [!NOTE]
-> This SIG operates **async** by default, attending any meetings is not mandatory! Feel free to choose your preferred way of communication
+> This SIG operates **async** by default, so attending meetings is not mandatory! Feel free to choose your preferred way of communication.
