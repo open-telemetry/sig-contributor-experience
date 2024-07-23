@@ -9,7 +9,7 @@ To achieve this, we create programs and processes around key contribution stages
 
 There are many ways to get involved:
 
-- Create [issues]([github.com/open-telemetry/sig-contributor-experience/issues/](https://github.com/open-telemetry/sig-contributor-experience/issues/new)), comment on [existing issues](github.com/open-telemetry/sig-contributor-experience/issues/), or [review pull requests](https://github.com/open-telemetry/sig-contributor-experience/pulls).
+- Create [issues](https://github.com/open-telemetry/sig-contributor-experience/issues/new), comment on [existing issues](https://github.com/open-telemetry/sig-contributor-experience/issues/), or [review pull requests](https://github.com/open-telemetry/sig-contributor-experience/pulls).
 - Get in touch with us on the [CNCF slack](https://slack.cncf.io/) channel [#otel-contributor-experience](https://cloud-native.slack.com/archives/C06TMJ2R0SK).
 - [Attend one of our meetings](https://docs.google.com/document/d/1CTQI0p3QF8JP8reV8z_ggcs8KE5YVPpQGvAQknw4qP0/edit#heading=h.x3xl5syz15zx). We alternate between two times to make it possible for you to join no matter which time zone you live or work in! 
 
