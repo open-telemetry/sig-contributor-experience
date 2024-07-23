@@ -5,9 +5,9 @@
 The goal of this SIG is to improve the experience of contributors to the OpenTelemetry project. 
 To achieve this, we create programs and processes around key contribution stages, such as first commit, or the transition from regular maintainer to approver.  We also consult with other SIGs to feedback into the process with an aim to improve overall community health.
 
-## Get Involved
+## Get involved
 
-There are many ways to get involved in our work:
+There are many ways to get involved:
 
 - Create [issues]([github.com/open-telemetry/sig-contributor-experience/issues/](https://github.com/open-telemetry/sig-contributor-experience/issues/new)), comment on [existing issues](github.com/open-telemetry/sig-contributor-experience/issues/), or [review pull requests](https://github.com/open-telemetry/sig-contributor-experience/pulls).
 - Get in touch with us on the [CNCF slack](https://slack.cncf.io/) channel [#otel-contributor-experience](https://cloud-native.slack.com/archives/C06TMJ2R0SK).
