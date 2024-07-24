@@ -2,8 +2,8 @@
 
 ## What is the Contributor Experience SIG?
 
-The goal of this SIG is to improve the experience of contributors to the OpenTelemetry project. 
-To achieve this, we create programs and processes around key contribution stages, such as first commit, or the transition from regular maintainer to approver.  We also consult with other SIGs to feedback into the process with an aim to improve overall community health.
+The goal of this SIG is to improve the experience of contributors to the OpenTelemetry Project. 
+To achieve this, we create programs and processes around key contribution stages, such as first commit, or the transition from regular contributor to approver.  We also consult with other SIGs to feedback into the process with an aim to improve overall community health.
 
 ## Get involved
 
