@@ -18,8 +18,8 @@ There are many ways to get involved:
 
 ### How we organize the SIG work
 
-To ensure that we can make steady progress and maintain focus on a small number of issues at a time we try to figure out staffing for individual issues.
-At any time, pick a maximum of two issues and assign yourself to them. If you don't have permissions to do it, comment on the issue or bring it up on one of our meetings so that a maintainer can assign you.
+To ensure that we can make steady progress and maintain focus on a small number of issues at a time, we try to figure out staffing for individual issues.
+At any time, pick a maximum of two issues and assign yourself to them. If you don't have permissions to do it, comment on the issue or bring it up in one of our meetings so that a maintainer can assign you.
 
 To decide what issues to pick, prioritize issues with more existing assignees and upvotes, and come to the SIG meeting to discuss.
 
