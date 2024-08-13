@@ -18,6 +18,9 @@ There are many ways to get involved:
 
 ### How we organize the SIG work
 
+
+A significant amount of issues in the Contributor Experience SIG require brainstorming between multiple contributors, possibly over a long time. This is particularly the case during the initial stage of this SIG.
+
 To ensure that we can make steady progress and maintain focus on a small number of issues at a time, we try to figure out staffing for individual issues.
 At any time, pick a maximum of two issues and assign yourself to them. If you don't have permissions to do it, comment on the issue or bring it up in one of our meetings so that a maintainer can assign you.
 
