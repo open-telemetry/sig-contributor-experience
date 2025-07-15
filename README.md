@@ -18,14 +18,14 @@ There are many ways to get involved:
 
 ### How we organize the SIG work
 
-A significant amount of issues in the Contributor Experience SIG require brainstorming between multiple contributors, possibly over a long time. This is particularly the case during the initial stage of this SIG. We will follow the steps below for such issues until February 2024.
+A significant amount of issues in the Contributor Experience SIG require brainstorming between multiple contributors, possibly over a long time.
 
 To ensure that we can make steady progress and maintain focus on a small number of issues at a time, we try to figure out staffing for individual issues.
 At any time, pick a maximum of two issues and assign yourself to them. If you don't have permissions to do it, comment on the issue or bring it up in one of our meetings so that a maintainer can assign you.
 
 To decide what issues to pick, prioritize issues with more existing assignees and upvotes, and come to the SIG meeting to discuss.
 
-Once an issue has 3 or more assignees, we will start working on it. We signal this by moving it to "In Progress" in our project board. 
+Once you start working on an issue, move it to "In Progress" in our project board, or ask one of the maintainers to move it for you if you don't have permission to do it. 
 The first step may be to break issues down into sub-tasks to ensure the scope is not too broad. 
 We don't have to complete an issue fully in order to move on to another task; we may decide to close or put an issue on hold and move to work on something else.
 
