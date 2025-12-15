@@ -30,3 +30,30 @@ The first step may be to break issues down into sub-tasks to ensure the scope is
 We don't have to complete an issue fully in order to move on to another task; we may decide to close or put an issue on hold and move to work on something else.
 
 If there is an issue that requires little discussion and can be worked on by an individual person contributors are encouraged to work on it themselves even if not following the process above.
+
+## Roles
+
+Here is a list of community roles with current and previous members:
+
+### Maintainers
+
+These are the members of [@open-telemetry/sig-contributor-experience-maintainers]:
+
+- [Amy Super](https://github.com/amy-super), Grafana Labs
+- [Kayla Reopelle](https://github.com/kaylareopelle), New Relic
+- [Marylia Gutierrez](https://github.com/maryliag), Grafana Labs
+- [Pablo Baeyens](https://github.com/mx-psi), DataDog
+- [Severin Neumann](https://github.com/svrnm), Causely
+
+For more information about the maintainer role, see the
+[community repository](https://github.com/open-telemetry/community/blob/main/community-membership.md#maintainer).
+
+Learn more about roles in the [community repository][]. Thanks to [all who have
+already contributed][contributors]!
+
+[contributors]:
+  https://github.com/open-telemetry/sig-contributor-experience/graphs/contributors
+[@open-telemetry/sig-contributor-experience-maintainers]:
+  @open-telemetry/sig-contributor-experience-maintainers
+[community repository]:
+  https://github.com/open-telemetry/community/blob/main/community-membership.md
