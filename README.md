@@ -37,8 +37,6 @@ Here is a list of community roles with current and previous members:
 
 ### Maintainers
 
-These are the members of [@open-telemetry/sig-contributor-experience-maintainers]:
-
 - [Amy Super](https://github.com/amy-super), Grafana Labs
 - [Kayla Reopelle](https://github.com/kaylareopelle), New Relic
 - [Marylia Gutierrez](https://github.com/maryliag), Grafana Labs
@@ -46,7 +44,14 @@ These are the members of [@open-telemetry/sig-contributor-experience-maintainers
 - [Severin Neumann](https://github.com/svrnm), Causely
 
 For more information about the maintainer role, see the
-[community repository](https://github.com/open-telemetry/community/blob/main/community-membership.md#maintainer).
+[community repository](https://github.com/open-telemetry/community/blob/main/guides/contributor/membership.md#maintainer).
+
+### Triagers
+
+- [Bogdan Stancu](https://github.com/bogdan-st), Adobe
+
+For more information about the triager role, see the
+[community repository](https://github.com/open-telemetry/community/blob/main/guides/contributor/membership.md#triager).
 
 Learn more about roles in the [community repository][]. Thanks to [all who have
 already contributed][contributors]!
