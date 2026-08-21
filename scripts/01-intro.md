@@ -39,7 +39,7 @@ The contributor guide also explains how the community works and where to find mo
 
 **Narration:**
 
-This is the OpenTelemetry community repository. It's where the project keeps its governance docs, its SIG list, and its meeting calendar.
+This is the OpenTelemetry community repository. It's where the project keeps its governance docs, its Special Interest Groups list, and its meeting calendar.
 
 The "Get Involved" section lists three next steps:
 
