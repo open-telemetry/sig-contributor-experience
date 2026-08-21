@@ -67,7 +67,7 @@ There are SIGs for specific implementations and languages, as well as cross-cutt
 
 For each group, the SIG list gives you the meeting schedule, meeting notes, Slack channel, repositories, and who to contact.
 
-SIG meetings are open to the community, so sitting in on a meeting or its Slack channel lets you see what a group is working on before you pick something up.
+SIG meetings are open to anyone, so sitting in on a meeting or its Slack channel lets you see what a group is working on before you pick something up.
 
 Choose the SIG that most closely matches the area where you'd like to contribute.
 
