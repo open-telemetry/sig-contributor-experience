@@ -129,6 +129,6 @@ Join the CNCF Slack community and the relevant SIG channel.
 
 Then find a good first issue and connect with the community before you start working on it.
 
-And remember: contributing doesn't only mean writing code. Documentation, issue triage, community work, reviews, and other contributions all help OpenTelemetry grow.
+And remember: contributing doesn't only mean writing code. Documentation, issue triage, community work, pull request reviews, and other contributions all help OpenTelemetry grow.
 
 Welcome to the OpenTelemetry community. We hope to see you contributing.
