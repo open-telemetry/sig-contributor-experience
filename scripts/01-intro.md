@@ -11,7 +11,7 @@
 
 Welcome! If you're interested in contributing to OpenTelemetry but aren't sure where to start, this video will walk you through the main community resources.
 
-We'll start from the OpenTelemetry website and find our way to the contributor documentation, GitHub community, Special Interest Groups, CNCF Slack, and finally some issues you can use to make your first contribution.
+We'll start from the OpenTelemetry website and find our way to the contributor documentation, GitHub community, Special Interest Groups, CNCF Slack, and finally how to find issues you can use to make your first contribution.
 
 You don't need to already be an OpenTelemetry expert to get involved. Plenty of contributors start with documentation fixes or issue triage.
 
