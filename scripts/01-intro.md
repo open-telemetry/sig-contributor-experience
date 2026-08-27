@@ -93,19 +93,23 @@ These channels are where you can ask questions and reach the people maintaining 
 
 ## 6. Finding a Good First Issue (~60 sec)
 
-**On screen:** Open an OpenTelemetry GitHub repository. Navigate to **Contribute** and/or **Issues**. Show issues carrying the `good first issue` label.
+**On screen:** Open an OpenTelemetry Collector Contrib GitHub repository. Go to **Issues** and filter by the `good first issue` label. Then open the repository's `CONTRIBUTING.md`.
 
 **Narration:**
 
-Once you've picked an area, open its repository and go to the **Contribute** tab or the issue list.
+Once you've picked an area, open its repository and go to the **Issues** tab.
 
-Many repositories tag beginner-friendly work with the `good first issue` label, and GitHub's Contribute tab collects those in one place. Not every repository uses it, so if the tab is empty, check the issue list directly.
+Many repositories tag beginner-friendly work with the `good first issue` label. Filter the issue list by that label to see what's open.
 
-Before starting work, read the repository's `CONTRIBUTING.md` because contribution processes can differ between repositories.
+Not every repository uses the label, and the ones that do can run out of tagged issues. If the filtered list is empty, ask in the SIG's Slack channel — someone there will know what needs picking up.
+
+Most repositories also have a `CONTRIBUTING.md`. That's where the guidelines live: how to set up the project locally, how the review process works, and anything specific to that codebase. Read it before you start, since the process differs between repositories.
 
 Also read the issue discussion and check whether someone is already working on it.
 
-If you're unsure whether an issue is a good fit, reach out through the relevant SIG or Slack channel before you start.
+If it looks unclaimed, leave a comment saying you'd like to take it. That tells maintainers and other contributors the issue is being picked up, and it's the right place to ask a clarifying question — the answer stays attached to the issue for whoever reads it next.
+
+If you don't get a reply, or you're not sure the issue is a good fit for a first contribution, ask in the SIG's Slack channel.
 
 ---
 
