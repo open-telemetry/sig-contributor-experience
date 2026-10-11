@@ -13,13 +13,16 @@
 
 **Narration:**
 
-Welcome back!
+Welcome back to the How to Contribute to OpenTelemetry series.
 
-In the previous videos, we explored how to find the OpenTelemetry community and participate in Special Interest Groups, or SIGs.
+I’m Abhimanyu Narwal, a contributor and member of the OpenTelemetry Contributor Experience SIG.
 
-Now that you know where to find the community, let's look at how to start contributing.
+In the previous videos, we explored how to find the OpenTelemetry community and participate in Special Interest Groups.
 
-We'll cover the contributor guidelines, the Contributor License Agreement, what happens when you submit a pull request, and the different ways you can help beyond writing code.
+Now we’ll look at how to prepare and submit a contribution.
+
+We’ll cover the New Contributor Guide, the Contributor License Agreement, repository-specific instructions, pull request reviews, and ways to help
+beyond writing code.
 
 ---
 
@@ -39,17 +42,17 @@ We'll cover the contributor guidelines, the Contributor License Agreement, what 
 
 **Narration:**
 
-Let's start in the OpenTelemetry Community repository.
+Start in the OpenTelemetry Community repository.
 
-Under "Get Involved," you'll find a link to the New Contributor Guide.
+Under Get Involved, open the contributor guide.
 
-This is a useful starting point because it explains the general requirements for contributing across the OpenTelemetry project.
+This is the project-wide starting point for contributors.
 
-Before submitting code, you'll need a GitHub account, you'll need to sign the Contributor License Agreement, and you should review the project's Code of Conduct.
+Before contributing code, you’ll need a GitHub account, you should review the Code of Conduct, and you’ll need to complete the Contributor License Agreement process when you open your first pull request.
 
-The guide also links to information about the contribution process and community roles.
+The guide also links to the contribution process and community roles.
 
-You don't need to memorize everything here. Think of this as a reference you can return to whenever you need guidance.
+You do not need to memorize everything here. Treat it as a reference you can return to as you contribute.
 
 ---
 
@@ -64,13 +67,17 @@ You don't need to memorize everything here. Think of this as a reference you can
 
 **Narration:**
 
-Before OpenTelemetry can accept your code, you'll need to sign the Contributor License Agreement, or CLA.
+OpenTelemetry requires contributors to complete a Contributor License Agreement, or CLA.
 
-The CLA establishes the terms under which you contribute your work to the project.
+The CLA establishes the terms under which your work is contributed to the project.
 
-For OpenTelemetry, this is a one-time process. Once you've signed it, you won't need to repeat it for every contribution.
+When you create your first pull request, the EasyCLA bot checks your CLA status.
 
-It's worth completing this early so it doesn't delay your first pull request.
+If action is required, the bot provides a link and instructions for completing the process.
+
+Depending on how you are contributing, you may complete the agreement as an individual contributor or through your organization.
+
+After completing the steps, return to the pull request and confirm that the CLA check has updated successfully.
 
 ---
 
@@ -90,17 +97,31 @@ Briefly show the relevant development, testing, and contribution instructions.
 
 **Narration:**
 
-The community contributor guide explains the general requirements for contributing to OpenTelemetry, but individual repositories may have their own instructions.
+The project-wide contributor guide explains the general requirements for contributing to OpenTelemetry.
 
-Let's use the OpenTelemetry Collector Contrib repository as an example.
+Each repository may add instructions for its own codebase.
 
-Scroll down to the Contributing section in the README and open the linked CONTRIBUTING.md file.
+Start with the repository homepage and read its README. It explains what the repository contains and may highlight important information for contributors.
 
-Here, you'll find guidance for contributing to Collector Contrib, including references to the core Collector contribution guidelines.
+From the Contributing section, open the repository’s CONTRIBUTING file.
 
-These resources explain the development process and expectations for preparing and submitting changes.
+Collector Contrib first directs contributors to the core Collector guidelines, then adds instructions specific to this repository.
 
-Before starting work in any repository, take a few minutes to review its contributing instructions. This helps you understand what's expected and can save time during review.
+These include local development, testing, changelog, pull request, and review requirements.
+
+Read these instructions before making changes because contribution processes can differ between repositories.
+
+OpenTelemetry also has a project-wide Generative AI Contribution Policy that applies across OpenTelemetry projects.
+
+The human contributor remains responsible for understanding, reviewing, and validating any AI-assisted content.
+
+A repository may add more specific requirements on top of that project-wide
+policy.
+
+For example, Collector Contrib includes additional guidance for AI-assisted pull requests.
+
+Before contributing, review both the project-wide policies and the
+repository-specific instructions.
 
 ---
 
@@ -122,23 +143,19 @@ Stay in the Collector Contrib repository.
 
 **Narration:**
 
-Once you've made your changes and followed the repository's contribution instructions, you're ready to open a pull request.
+Once your changes follow the repository’s guidelines, you can open a pull request.
 
-A good pull request clearly explains what you're changing and why. If you're addressing an existing issue, reference it in the description.
+A useful pull request has a clear title and description explaining what is changing and why.
 
-After submitting your PR, automated checks may run, and other contributors or maintainers will review your changes.
+If it addresses an existing issue, link that issue in the description.
 
-Don't worry if you don't receive feedback immediately.
+After submission, automated checks may run and maintainers or other contributors may review the change.
 
-OpenTelemetry is maintained by a community of contributors who balance project work with other responsibilities. A review may take a little while, depending on the repository and the change.
+A reviewer may ask a question, suggest an improvement, or request additional tests.
 
-When feedback arrives, think of it as a conversation.
+Treat that feedback as a conversation. Respond to comments, update the same pull request, and continue until the contribution is ready.
 
-A reviewer might ask a question, suggest an improvement, or request additional tests.
-
-You can respond to their comments, update your changes, and continue the discussion until the contribution is ready.
-
-Reviews are part of the collaborative process, so don't be discouraged if your first PR needs a few revisions.
+Reviews may take time, and needing revisions is a normal part of collaborative open-source development.
 
 ---
 
@@ -152,66 +169,31 @@ Reviews are part of the collaborative process, so don't be discouraged if your f
    https://github.com/open-telemetry/sig-contributor-experience
 4. Show the README's **Get involved** section.
 5. Open the Issues tab and show examples of community improvement work.
+6. Switch to a collector Contrib issue OR issue-triaging document
 
 **Narration:**
 
-One important thing to remember is that contributing to OpenTelemetry doesn't only mean writing code.
+Contributing to OpenTelemetry does not only mean writing code.
 
-There are many other ways to help.
+You can improve documentation, report or reproduce bugs, comment on issues, review pull requests, participate in discussions, or help with community work.
 
-For example, you can report bugs, improve documentation, review pull requests, or participate in community discussions.
+The Contributor Experience SIG, for example, invites contributors to create issues, comment on existing work, review pull requests, join Slack, or attend
+meetings.
 
-Let's look at the Contributor Experience SIG.
+Its issues include work related to onboarding, community processes, and improving the contributor experience.
 
-This group focuses on improving the experience of people contributing to OpenTelemetry.
+As you become familiar with a technical repository, you can also help investigate issues.
 
-Its repository includes issues related to onboarding, community processes, and helping new contributors get started.
+This may include reproducing a problem, providing missing context, identifying related reports, or participating in the discussion.
 
-You can participate by suggesting improvements, contributing to discussions, or helping with an existing issue.
+Formal triagers have additional permissions for labels and issue workflow, but anyone can help make an issue clearer and easier to resolve.
 
-So even if you're not ready to contribute code, there are still meaningful ways to get involved.
+Over time, consistent contributions may lead to more formal responsibilities.
 
----
-
-## 7. Helping Through Reviews and Issue Triage (~45 sec)
-
-**On screen:**
-
-Return to the Collector Contrib repository.
-
-Open the Issues tab.
-
-Show the issue list and available labels.
-
-Open an issue with an existing discussion.
-
-Highlight the issue description, labels, and contributor comments.
-
-Return to the README and briefly show the Triagers section.
-
-Optionally show the repository's issue-triaging.md file.
-
-**Narration:**
-
-As you become more familiar with a project, you can also help through reviews and issue triage.
-
-Let's look at the Collector Contrib repository.
-
-Here, you can see issues reported by the community, along with labels that help organize and prioritize the work.
-
-Issue triage involves understanding reported problems, gathering missing information, identifying duplicates, and helping maintainers keep the backlog organized.
-
-Even without formal repository permissions, you can contribute by reproducing issues, providing additional context, or participating in discussions.
-
-You can also review pull requests and offer constructive feedback as you become familiar with the codebase.
-
-Collector Contrib has a dedicated group of triagers who help manage this process.
-
-Over time, active contributors can take on more formal responsibilities within the project.
 
 ---
 
-## 8. Wrap-Up (~25 sec)
+## 7. Wrap-Up (~25 sec)
 
 **On screen:**
 
@@ -219,7 +201,19 @@ Return to the OpenTelemetry Community repository.
 
 Display the contribution path:
 
-`Contributor Guide → CLA → Repository Guidelines → Pull Request → Review`
+```
+Contributor Guide
+       ↓
+Repository Guidelines
+       ↓
+Make Your Change
+       ↓
+Open a Pull Request
+       ↓
+Complete the CLA Check
+       ↓
+Review and Iterate
+```
 
 Then show:
 
@@ -227,12 +221,18 @@ Then show:
 
 **Narration:**
 
-So, before making your first OpenTelemetry contribution, start with the New Contributor Guide, sign the CLA, and review the instructions for the repository you're working with.
+Before making your first OpenTelemetry contribution, start with the New Contributor Guide and review the instructions for the repository where you
+plan to work.
 
-When you submit a pull request, be prepared to collaborate with reviewers and work through feedback.
+Make your change, open a pull request, and complete the CLA process when the EasyCLA check appears.
 
-And remember, contributing isn't limited to code. Documentation, issues, reviews, and community participation all help OpenTelemetry grow.
+Be prepared to collaborate with reviewers and work through feedback.
+
+
+And remember, contributing is not limited to code.
+
+Documentation, issues, reviews, testing, and community participation all help OpenTelemetry grow.
 
 Find an area that interests you, start small, and get involved.
 
-We look forward to seeing your contributions!
+We look forward to seeing your contributions.

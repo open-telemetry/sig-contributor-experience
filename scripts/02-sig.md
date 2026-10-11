@@ -11,15 +11,15 @@
 
 **Narration:**
 
-Welcome back!
+Welcome back to the How to Contribute to OpenTelemetry series.
 
-In this video, we'll look at one of the main ways the OpenTelemetry community organizes its work: Special Interest Groups, or SIGs.
+I’m Abhimanyu Narwal, a contributor and member of the OpenTelemetry Contributor Experience SIG.
 
-OpenTelemetry is a large project covering specifications, language implementations, the Collector, documentation, security, contributor experience, and many other areas.
+In this video, we’ll look at one of the main ways the OpenTelemetry community organizes its work: Special Interest Groups, usually called SIGs.
 
-SIGs bring together contributors interested in a particular part of the project so they can collaborate, discuss ongoing work, and make progress together.
+We’ll see how to find the right SIG, join a meeting, prepare for your first session, and stay involved between meetings.
 
-And importantly, you don't need to already be an established OpenTelemetry contributor to participate.
+You do not need an existing OpenTelemetry community role to participate.
 
 ---
 
@@ -44,19 +44,15 @@ And importantly, you don't need to already be an established OpenTelemetry contr
 
 **Narration:**
 
-The OpenTelemetry Community repository maintains a list of the project's SIGs.
+The OpenTelemetry Community repository maintains the project’s SIG list.
 
-Scroll down to the Special Interest Groups section.
+The groups are organized into specification SIGs, implementation SIGs, and cross-cutting SIGs.
 
-You'll find groups covering specifications, implementations such as the Collector and language SDKs, and cross-cutting areas such as security, documentation, and contributor experience.
+The table shows each group’s meeting time, invitation group, Slack channel, and a link to more detailed information.
 
-The table provides the meeting schedule, meeting invitation group, Slack channel, and a link to additional information for each SIG.
+For example, the Contributor Experience SIG is listed here.
 
-For example, here's the Contributor Experience SIG.
-
-We can see when it meets, find its Slack channel, and follow the Details link to learn more about the group.
-
-Choose a SIG that matches your interests. You can always explore other groups later.
+Use these details to find a SIG that matches your interests. You can always explore other groups later.
 
 ---
 
@@ -66,15 +62,14 @@ Choose a SIG that matches your interests. You can always explore other groups la
 
 **Narration:**
 
-If you're new to OpenTelemetry, you might wonder whether you need to become a member, approver, or maintainer before joining a SIG.
+You do not need to be a member, approver, or maintainer before joining a SIG.
 
-You don't.
+OpenTelemetry has formal community roles for contributors who take on increasing responsibility, but those roles are not required to begin
+participating.
 
-OpenTelemetry has community roles with increasing levels of responsibility, but you don't need one of those roles before you start participating.
+You can attend a meeting, listen to the discussion, ask questions, comment on issues, or help with work that interests you.
 
-You can begin by attending meetings, listening to discussions, asking questions, contributing to issues, or helping with work that interests you.
-
-Community roles can come later as you become more involved.
+Community roles may come later as you become more involved.
 
 ---
 
@@ -134,22 +129,21 @@ Slowly show:
 
 **Narration:**
 
-Your first SIG meeting can be as simple as listening and learning.
+Before the meeting, review the notes or agenda if they are available.
 
-There's no expectation that you need to understand everything immediately or contribute to every discussion.
+Your first meeting can be as simple as listening and learning. There is no expectation that you understand every topic or contribute to every discussion.
 
-If the meeting agenda is editable, add your name and a short introduction to the agenda before the meeting.
+If the document includes an editable attendee or agenda section, you can add your name or a short topic before the meeting.
 
-When it's your turn, introduce yourself briefly. You might mention your name, what you're interested in, and what brought you to that SIG.
+When there is an opportunity to introduce yourself, keep it brief.
 
 For example:
 
-“Hi, I'm Abhi. I'm new to contributing to OpenTelemetry and I'm interested in the Collector and contributor experience. I'm joining today to learn more about what the SIG is working on and where I might be able to help.”
+“Hi, I’m Abhi. I’m new to contributing to OpenTelemetry, and I’m interested in the Collector and contributor experience. I’m joining to learn what the SIG is working on and where I may be able to help.”
 
-That's enough.
+That is enough.
 
-As you become familiar with the group, you can start participating in discussions, asking questions, picking up issues, or proposing topics for future meetings.
-
+As you become familiar with the group, you can ask questions, participate in discussions, or pick up an issue that interests you.
 ---
 
 ## 6. Slack Between Meetings (~30 sec)
@@ -158,13 +152,15 @@ As you become familiar with the group, you can start participating in discussion
 
 **Narration:**
 
-Participation doesn't stop when the meeting ends.
+Participation does not stop when a meeting ends.
 
-The SIG table in the Community repository provides the relevant Slack channel for each group.
+Each SIG’s row includes its Slack channel, which is often the easiest place to follow discussions, ask questions, or continue a conversation.
 
-That's often the easiest place to follow discussions, ask questions, or continue a conversation from a meeting.
+Some groups also work extensively through GitHub issues and pull requests.
 
-Joining both the meetings and the Slack channel will help you understand what the group is working on and where contributors can help.
+For example, the Contributor Experience SIG operates asynchronously by default, so attending every meeting is not required.
+
+Use the combination of meetings, Slack, and GitHub that works best for you.
 
 ---
 
@@ -172,14 +168,22 @@ Joining both the meetings and the Slack channel will help you understand what th
 
 **On screen:** Show a simple path:
 
-`Find a SIG → Check Calendar → Join Meeting → Introduce Yourself → Participate`
+Find a SIG
+      ↓
+Confirm Current Details
+      ↓
+Join a Meeting or Follow Async
+      ↓
+Introduce Yourself
+      ↓
+Participate When Ready
 
 **Narration:**
 
-Getting involved with an OpenTelemetry SIG doesn't require a title or existing community status.
+Getting involved with an OpenTelemetry SIG does not require an existing community title.
 
-Find an area you're interested in, check its meeting schedule, open the community calendar, and join a meeting.
+Find an area that interests you, confirm its current meeting and communication details, and join in through meetings, Slack, or GitHub.
 
-You can start by listening and learning, introduce yourself when you're comfortable, and continue the conversation through the SIG's Slack channel.
+You can begin by listening and learning, introduce yourself when you are comfortable, and contribute when you find an area where you can help.
 
-We hope to see you at an OpenTelemetry SIG meeting!
+We hope to see you in an OpenTelemetry SIG.
