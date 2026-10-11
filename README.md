@@ -41,7 +41,6 @@ Here is a list of community roles with current and previous members:
 - [Kayla Reopelle](https://github.com/kaylareopelle), New Relic
 - [Marylia Gutierrez](https://github.com/maryliag), Grafana Labs
 - [Pablo Baeyens](https://github.com/mx-psi), DataDog
-- [Severin Neumann](https://github.com/svrnm), Causely
 
 For more information about the maintainer role, see the
 [community repository](https://github.com/open-telemetry/community/blob/main/guides/contributor/membership.md#maintainer).
