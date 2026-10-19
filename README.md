@@ -47,7 +47,9 @@ For more information about the maintainer role, see the
 
 ### Triagers
 
+- [Abhi Narwal](https://github.com/anarwal), Bloomberg
 - [Bogdan Stancu](https://github.com/bogdan-st), Adobe
+- [Dhruv Ahuja](https://github.com/dhruv-ahuja), SigNoz
 
 For more information about the triager role, see the
 [community repository](https://github.com/open-telemetry/community/blob/main/guides/contributor/membership.md#triager).
