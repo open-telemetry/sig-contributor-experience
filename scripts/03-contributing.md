@@ -85,43 +85,49 @@ After completing the steps, return to the pull request and confirm that the CLA 
 
 **On screen:**
 
-Open the OpenTelemetry Collector Contrib repository.
+Start on the Collector Contrib repository homepage.
 
-Scroll down the README to Contributing.
+Point to the repository’s Contributing entry.
 
-Click CONTRIBUTING.md.
+Open it to display CONTRIBUTING.md.
 
-Highlight the link to the core Collector contribution guidelines.
+Show: The introductory guidance
+- The link to shared/core Collector guidelines
+- Development and testing sections
+- Pull-request expectations
+- Repository-specific AI guidance
 
-Briefly show the relevant development, testing, and contribution instructions.
+Briefly show the project-wide Generative AI Contribution Policy.
+
+Return to the repository’s CONTRIBUTING.md.
 
 **Narration:**
 
 The project-wide contributor guide explains the general requirements for contributing to OpenTelemetry.
 
-Each repository may add instructions for its own codebase.
+Before making changes in a specific repository, review that repository's contribution instructions.
 
-Start with the repository homepage and read its README. It explains what the repository contains and may highlight important information for contributors.
+OpenTelemetry repositories provide a Contributing entry that takes you to the repository's CONTRIBUTING file.
 
-From the Contributing section, open the repository’s CONTRIBUTING file.
+Use this entry rather than relying on a contribution link inside the README, because the README structure can differ between repositories.
 
-Collector Contrib first directs contributors to the core Collector guidelines, then adds instructions specific to this repository.
+This file contains the instructions that apply to this repository.
 
-These include local development, testing, changelog, pull request, and review requirements.
+For Collector Contrib, the guide first points contributors to the shared core Collector guidelines and then adds requirements specific to this repository.
 
-Read these instructions before making changes because contribution processes can differ between repositories.
+It covers areas such as setting up the project, running tests, preparing changes, opening pull requests, and working with reviewers.
 
-OpenTelemetry also has a project-wide Generative AI Contribution Policy that applies across OpenTelemetry projects.
+These instructions can differ between repositories, so review the CONTRIBUTING file before you begin working on a change.
 
-The human contributor remains responsible for understanding, reviewing, and validating any AI-assisted content.
+OpenTelemetry also has project-wide policies that apply across its repositories.
 
-A repository may add more specific requirements on top of that project-wide
-policy.
+For example, the OpenTelemetry Generative AI Contribution Policy applies across OpenTelemetry projects.
 
-For example, Collector Contrib includes additional guidance for AI-assisted pull requests.
+Individual repositories may add more specific requirements on top of that project-wide policy.
 
-Before contributing, review both the project-wide policies and the
-repository-specific instructions.
+Collector Contrib includes additional repository-specific guidance for AI-assisted contributions.
+
+Before contributing, review both the project-wide policies and the instructions provided by the repository.
 
 ---
 
