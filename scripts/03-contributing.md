@@ -107,7 +107,7 @@ The project-wide contributor guide explains the general requirements for contrib
 
 Before making changes in a specific repository, review that repository's contribution instructions.
 
-OpenTelemetry repositories provide a Contributing entry that takes you to the repository's CONTRIBUTING file.
+OpenTelemetry repositories provide a Contributing tab that takes you to the repository's CONTRIBUTING file.
 
 Use this entry rather than relying on a contribution link inside the README, because the README structure can differ between repositories.
 
