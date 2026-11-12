@@ -109,8 +109,6 @@ Before making changes in a specific repository, review that repository's contrib
 
 OpenTelemetry repositories provide a Contributing tab that takes you to the repository's CONTRIBUTING file.
 
-Use this entry rather than relying on a contribution link inside the README, because the README structure can differ between repositories.
-
 This file contains the instructions that apply to this repository.
 
 For Collector Contrib, the guide first points contributors to the shared core Collector guidelines and then adds requirements specific to this repository.
