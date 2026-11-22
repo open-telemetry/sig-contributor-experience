@@ -25,7 +25,7 @@ AI can help you explore unfamiliar code, draft changes, and find potential probl
 
 ## 2. Maintainer Attention and Contributor Trust (~35 sec)
 
-**On screen:** Show:
+**On screen:** Show (using graphics):
 
 `Focused Changes → Clear Communication → Response to Feedback → Trust`
 
@@ -45,7 +45,7 @@ That continued participation matters as much as the initial submission.
 
 ## 3. Patterns That Make Contributions Harder to Review (~50 sec)
 
-**On screen:** Show each pattern alongside a better approach:
+**On screen:** Show each pattern alongside a better approach (use graphics to illustrate the comparison):
 
 | Pattern | Better approach |
 | --- | --- |
@@ -70,7 +70,7 @@ Finally, submitting and disappearing. Stay involved after opening the pull reque
 
 ## 4. Good Ways to Use AI (~50 sec)
 
-**On screen:** Show three uses:
+**On screen:** Show three uses (use graphics to illustrate each use):
 
 - **Explore:** Repository structure, contribution instructions, unfamiliar code, and test commands.
 - **Draft:** Focused changes to code, tests, or documentation.
@@ -143,7 +143,7 @@ Check the current instructions in the repository where you plan to contribute.
 
 ## 7. A Responsible AI-Assisted Workflow (~40 sec)
 
-**On screen:** Display the contribution path:
+**On screen:** Display the contribution path (use graphics to illustrate each step):
 
 ```text
 Understand the Issue and Contribution Guidelines
@@ -175,7 +175,7 @@ Then stay engaged through review. If you cannot explain part of the change, inve
 
 ## 8. Wrap-Up (~20 sec)
 
-**On screen:** Show:
+**On screen:** (Use the above generated graphic):
 
 `Understand Your Change → Verify Your Work → Communicate Clearly → Stay Involved`
 
